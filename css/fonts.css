@@ -1,0 +1,44 @@
+            /*
+* Template Name: INK DESIGN - Responsive wiring installation company template
+* Description: INK DESIGN - Responsive wiring installation company template
+* Author: INK DESIGN
+* Version: 1.0
+*/
+            /*
+FONTS STYLES RESIZE
+*/
+            /*--fonts for <h1> --*/
+            
+            #presentation-text-wrapp h1 {
+                font-size: calc((100vw - 320px)/(2560 - 320) * (44 - 42) + 42px);
+            }
+            
+            .title-wrapp h1 {
+                font-size: calc((100vw - 320px)/(2560 - 320) * (40 - 38) + 38px);
+            }
+            /*--fonts for <h2> --*/
+            
+            h2 {
+                font-size: calc( (100vw - 320px)/(2560 - 320) * (24 - 22) + 22px);
+            }
+            /*--fonts for <h3> --*/
+            
+            h3 {
+                font-size: calc( (100vw - 320px)/(2560 - 320) * (17 - 15) + 15px);
+            }
+            /*--fonts for <p> --*/
+            
+            #additional-info p {
+                font-size: calc( (100vw - 320px)/(2560 - 320) * (16 - 12) + 12px);
+            }
+            
+            #reserve-form-grid p,
+            .about-txt p {
+                font-size: calc( (100vw - 320px)/(2560 - 320) * (18 - 14) + 14px);
+            }
+            /*--fonts for <a> --*/
+            
+            nav a {
+                font-size: calc( (100vw - 320px)/(2560 - 320) * (15 - 14) + 14px);
+            }
+            /*--fonts for <i> --*/
