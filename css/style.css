@@ -186,6 +186,7 @@ i {
     position: relative;
     -webkit-box-shadow: 0px 10px 100px rgb(94, 93, 93);
     box-shadow: 0px 10px 100px rgb(94, 93, 93);
+	min-width:140%;
 }
 
 #video-wrapper:after {
@@ -196,6 +197,7 @@ i {
     bottom: 0;
     left: 0;
     right: 0;
+	min-width:140%;
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-size: 4px 4px;
