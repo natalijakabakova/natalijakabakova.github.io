@@ -199,9 +199,7 @@ i {
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-size: 4px 4px;
-      -webkit-background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
-    -webkit-background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
-    -webkit-background-size: 4px 4px;
+      z-index:61;
 }
 
 #video-wrapper>* {
