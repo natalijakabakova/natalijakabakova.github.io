@@ -174,7 +174,6 @@ i {
 }
 
 #video-wrapper video {
-      position:absolute;
     width: 140%;
     height: 900px;
     margin-left: -17%;
@@ -200,6 +199,10 @@ i {
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-size: 4px 4px;
+}
+
+video::-webkit-media-controls {
+	display:none !important;
 }
 
 #video-wrapper>* {
