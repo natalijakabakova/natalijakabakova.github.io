@@ -200,7 +200,7 @@ i {
     right: 0;
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
-	background-image: -webkit-gradient(radial, 4px 4px,rgba(0, 0, 0, 0.2) 33%, transparent 33%);
+    background: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-size: 4px 4px;
 }
 
