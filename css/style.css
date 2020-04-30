@@ -201,8 +201,8 @@ i {
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
-	background: radial-gradient(at 4px 0, #484847, #090909);
     background-size: 4px 4px;
+    z-index:100;
 }
 
 
