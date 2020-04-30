@@ -199,7 +199,7 @@ i {
     left: 0;
     right: 0;
     background-image: -o-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
-	background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
+	background: -webkit-gradient(radial, rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-image: radial-gradient(rgba(0, 0, 0, 0.2) 33%, transparent 33%);
     background-size: 4px 4px;
 }
