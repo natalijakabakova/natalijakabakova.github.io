@@ -829,7 +829,7 @@ a:nth-child(5):hover~.animation {
 
 #kitchen {
     margin-top: -16vh;
-    android:layout_margin="-16vh";
+    android:layout_margin="-10vh";
     padding-bottom: 5%;
 }
 
