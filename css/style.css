@@ -809,7 +809,7 @@ a:nth-child(5):hover~.animation {
 #about-us {
     margin-top: -5vh;
     padding-bottom: 5%;
-    /*android:layout_paddingBottom="9vh";//
+    android:layout_paddingBottom="9vh";
 }
 
 .about-txt {
@@ -830,7 +830,6 @@ a:nth-child(5):hover~.animation {
 
 #kitchen {
     margin-top: -16vh;
-       android:layout_marginTop="10vh";
     padding-bottom: 5%;
 }
 
