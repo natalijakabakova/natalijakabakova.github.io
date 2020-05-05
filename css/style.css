@@ -808,8 +808,7 @@ a:nth-child(5):hover~.animation {
 
 #about-us {
     margin-top: -5vh;
-    padding-bottom: 15%;
-    android:layout_paddingBottom="9vh";
+    padding-bottom: 5%;
 }
 
 .about-txt {
@@ -829,7 +828,7 @@ a:nth-child(5):hover~.animation {
 /*-------------------9*KITCHEN-----------------*/
 
 #kitchen {
-    margin-top: -16vh;
+    margin-top: -19vh;
     padding-bottom: 5%;
 }
 
