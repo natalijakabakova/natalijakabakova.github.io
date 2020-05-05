@@ -808,7 +808,7 @@ a:nth-child(5):hover~.animation {
 
 #about-us {
     margin-top: -5vh;
-    padding-bottom: 5%;
+    padding-bottom: 15%;
     android:layout_paddingBottom="9vh";
 }
 
