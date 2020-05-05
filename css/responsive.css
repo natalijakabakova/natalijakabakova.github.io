@@ -65,6 +65,10 @@ Responsive-main
         .contact-validate-form-mob .message-field textarea {
             width: 350px;
         }
+        
+        #kitchen {
+        android:layout_marginTop="-15vh";
+        }
     }
     
     @media (max-width: 767px) and (min-width: 686px) {
