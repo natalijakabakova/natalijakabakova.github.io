@@ -66,9 +66,7 @@ Responsive-main
             width: 350px;
         }
         
-        #kitchen {
-        android:layout_marginTop="-15vh";
-        }
+        
     }
     
     @media (max-width: 767px) and (min-width: 686px) {
@@ -78,6 +76,9 @@ Responsive-main
         #reserve-form-grid {
             margin-left: 10%;
             margin-top: 40px;
+        }
+        #kitchen {
+        android:layout_marginTop="1vh";
         }
     }
     
