@@ -759,7 +759,7 @@ a:nth-child(5):hover~.animation {
 /*--------------7*GALLERY----------------*/
 
 #gallery {
-    position: relative;
+    padding-top:100px;
 }
 
 #gallery-grid {
