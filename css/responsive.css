@@ -82,7 +82,8 @@ Responsive-main
     
     @media (max-width: 685px) and (min-width: 320px) {
         #restorant-video {
-            height: 1%;
+           
+            margin-top: -20px;
         }
         #video-wrapper video {
             width: 140%;
