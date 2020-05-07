@@ -1,0 +1,143 @@
+    /*
+* Template Name: INK DESIGN - Responsive wiring installation company template
+* Description: INK DESIGN - Responsive wiring installation company template
+* Author: INK DESIGN
+* Version: 1.0
+*/
+    /******************************************
+Responsive-main
+******************************************/
+    
+    @media (max-width: 2560px) and (min-width:901px) {
+        .hamburger-menu {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 2560px) and (min-width:768px) {
+        .contact-validate-form-mob {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 1349px) and (min-width:992px) {
+        #adress-grid {
+            margin-left: 36%;
+        }
+        #reserve-form-grid {
+            margin-left: 20%;
+            margin-top: 40px;
+        }
+    }
+    
+    @media (max-width: 991px) and (min-width: 768px) {
+        #adress-grid {
+            margin-left: 35%;
+        }
+        #reserve-form-grid {
+            margin-left: 15%;
+            margin-top: 40px;
+        }
+    }
+    
+    @media (max-width: 901px) and (min-width: 320px) {
+        #menu-wrapper {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 767px) and (min-width: 320px) {
+        .title-wrapp h1,
+        .title {
+            text-align: center;
+        }
+        .contact-validate-form {
+            display: none;
+        }
+        .form-btn {
+            margin-top: -42px;
+        }
+        @-moz-document url-prefix() {
+            .container-form-btn {
+                margin-top: -11px;
+            }
+        }
+        .contact-validate-form-mob .message-field textarea {
+            width: 350px;
+        }
+    }
+    
+    @media (max-width: 767px) and (min-width: 686px) {
+        #adress-grid {
+            margin-left: 32%;
+        }
+        #reserve-form-grid {
+            margin-left: 10%;
+            margin-top: 40px;
+        }
+    }
+    
+    @media (max-width: 685px) and (min-width: 320px) {
+        #restorant-video {
+            height: 40%;
+        }
+        #contacts {
+            margin-top: -20px;
+        }
+        #video-wrapper video {
+            width: 140%;
+            height: 100%;
+        }
+        #presentation-text-wrapp {
+            display: none;
+        }
+        #adress-grid {
+            margin-left: 10%;
+        }
+        h2 {
+            max-width: 200px;
+        }
+        .contact-validate-form-mob,
+        .wrap-contact-form,
+        #reserve-form-grid,
+        #reserve-form-grid p {
+            width: 350px;
+        }
+        #reserve-form-grid {
+            margin-left: 10%;
+            margin-top: 40px;
+        }
+        #reserve-form-grid h2 {
+            margin-left: 7%;
+        }
+    }
+    
+    @media (max-width: 409px) and (min-width: 320px) {
+        #adress-grid #adress-wrapp {
+            left: -30px;
+            top: 317px;
+        }
+        .contact-validate-form-mob,
+        .wrap-contact-form,
+        #reserve-form-grid,
+        #reserve-form-grid p {
+            width: 250px;
+        }
+        #reserve-form-grid {
+            margin-left: 5%;
+            margin-top: 40px;
+        }
+        #reserve-form-grid h2 {
+            margin-left: 24%;
+        }
+        .name-field input,
+        .e-mail-field input {
+            width: 200px;
+        }
+        .contact-validate-form-mob .message-field textarea {
+            width: 200px;
+        }
+        #button {
+            left: 80%;
+        }
+    }
