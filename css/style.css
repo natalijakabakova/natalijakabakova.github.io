@@ -619,7 +619,7 @@ a:nth-child(5):hover~.animation {
     position: absolute;
     z-index: 300;
     margin-top: 260px;
-    margin-left: 10%;
+    margin-left: 30px;
 }
 
 #adress-grid #adress-wrapp {
@@ -628,10 +628,9 @@ a:nth-child(5):hover~.animation {
     background-color: #f08b08;
     border-radius: 20px;
     position: absolute;
-    z-index: 500;
-    top: 120%;
-    left: 10%;
-
+    z-index: 300;
+    top: 290px;
+    left: 83px;
 }
 
 #adress-wrapp p {
@@ -643,7 +642,6 @@ a:nth-child(5):hover~.animation {
     font-size: 14px;
     color: #010300;
 }
-
 
 /*---6.2.1.2*ADDITIONAL INFORMATION------*/
 
