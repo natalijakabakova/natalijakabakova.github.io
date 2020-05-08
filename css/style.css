@@ -631,6 +631,7 @@ a:nth-child(5):hover~.animation {
     z-index: 500;
     top: 290px;
     left: 83px;
+      -webkit-left:10px;
 }
 
 #adress-wrapp p {
