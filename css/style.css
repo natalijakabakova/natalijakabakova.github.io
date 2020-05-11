@@ -608,8 +608,8 @@ a:nth-child(5):hover~.animation {
     position: absolute;
     z-index: 200;
     margin-top: 90px;
-    margin-left: -270px;
-      -webkit-margin-left: 200px;
+    margin-left: 1%;
+     
 }
 
 #adress-grid h2:before {
