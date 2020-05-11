@@ -624,7 +624,7 @@ a:nth-child(5):hover~.animation {
 }
 
 #adress-grid #adress-wrapp {
-    width: 200px;
+    width: 20%;
     height: 10%;
     background-color: #f08b08;
     border-radius: 20px;
