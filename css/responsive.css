@@ -68,9 +68,9 @@ Responsive-main
     }
     
     @media (max-width: 767px) and (min-width: 686px) {
-        #adress-grid {
+        /*#adress-grid {
             margin-left: 32%;
-        }
+        }*/
         #reserve-form-grid {
             margin-left: 10%;
             margin-top: 40px;
