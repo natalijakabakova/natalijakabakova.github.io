@@ -21,9 +21,9 @@ Responsive-main
     }
     
     @media (max-width: 1349px) and (min-width:992px) {
-        /*#adress-grid {
+        #adress-grid {
             margin-left: 36%;
-        }*/
+        }
         #reserve-form-grid {
             margin-left: 20%;
             margin-top: 40px;
