@@ -33,7 +33,7 @@ Responsive-main
     @media (max-width: 991px) and (min-width: 768px) {
            #adress-grid h2:after {
     
-   -webkit-margin-left: -100%;
+ margin-left: -50%;
 }
         #adress-grid {
             margin-left: 35%;
