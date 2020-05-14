@@ -25,6 +25,8 @@ Table of Contents End
 
 
 /*-------------1*GENERAL STYLES------------*/
+@import url(http://reset5.googlecode.com/hg/reset.min.css);
+
 
 * {
     padding: 0;
