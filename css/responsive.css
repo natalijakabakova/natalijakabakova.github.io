@@ -1,4 +1,4 @@
-    /*
+       /*
 * Template Name: INK DESIGN - Responsive wiring installation company template
 * Description: INK DESIGN - Responsive wiring installation company template
 * Author: INK DESIGN
@@ -32,7 +32,7 @@ Responsive-main
     
     @media (max-width: 991px) and (min-width: 768px) {
         #adress-grid {
-            margin-left: 65%;
+            margin-left: 35%;
         }
         #reserve-form-grid {
             margin-left: 15%;
@@ -69,7 +69,7 @@ Responsive-main
     
     @media (max-width: 767px) and (min-width: 686px) {
         #adress-grid {
-            margin-left:65%;
+            margin-left: 32%;
         }
         #reserve-form-grid {
             margin-left: 10%;
@@ -78,6 +78,10 @@ Responsive-main
     }
     
     @media (max-width: 685px) and (min-width: 320px) {
+        #adress-grid h2:after {
+    
+    margin-left: -100%;
+}
         #restorant-video {
             height: 40%;
         }
