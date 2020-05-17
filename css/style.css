@@ -25,8 +25,6 @@ Table of Contents End
 
 
 /*-------------1*GENERAL STYLES------------*/
-@import url(http://reset5.googlecode.com/hg/reset.min.css);
-
 
 * {
     padding: 0;
@@ -611,7 +609,6 @@ a:nth-child(5):hover~.animation {
     z-index: 200;
     margin-top: 90px;
     margin-left: -140%;
-     
 }
 
 #adress-grid h2:before {
@@ -622,12 +619,12 @@ a:nth-child(5):hover~.animation {
     position: absolute;
     z-index: 300;
     margin-top: 260px;
-    margin-left: 1%;
+    margin-left: -1%;
 }
 
 #adress-grid #adress-wrapp {
     width: 120%;
-    height: 240%;
+    height: 200%;
     background-color: #f08b08;
     border-radius: 20px;
     position: absolute;
@@ -645,6 +642,7 @@ a:nth-child(5):hover~.animation {
     font-size: 14px;
     color: #010300;
 }
+
 
 /*---6.2.1.2*ADDITIONAL INFORMATION------*/
 
